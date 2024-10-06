@@ -1,6 +1,6 @@
 ![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
 <h1 align="center">Hi 👋, I'm LENIN</h1>
-<h3 align="center">A passionate rising developer from Rwanda</h3>
+<h3 align="center">A certified AWS Cloud Practitioner in Kigali-Rwanda</h3>
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lenin-star&label=Profile%20views&color=0e75b6&style=flat" alt="lenin-star" /> </p>
